@@ -1,4 +1,4 @@
-
+In target/classes:
 
 Encrypt:
 1. java ch.zhaw.securitylab.slcrypt.encrypt.SLEncrypt data/brunndar_sigritim_05.txt data/aes_cbc.enc data/encryptCert.crt AES/CBC/PKCS5Padding 192 M HmacSHA256 supersecret
